@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Math Tutor",
+  "description": "A compassionate, Socratic AI math tutor that guides students through complex problems one step at a time, emphasizing conceptual understanding over rote calculation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
